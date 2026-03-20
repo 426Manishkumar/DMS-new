@@ -10,7 +10,7 @@ function AboutSection() {
       <div className="grid items-center gap-7 md:grid-cols-[1.1fr_0.9fr]">
         <SectionHeading
           eyebrow="About Us"
-          title="Built to promote music, talent, and cultural participation."
+          title="Built to promote music , talent, and cultural participation and many more."
           text="The original DMS Aarohi website describes the society as a voluntary musical organisation dedicated to encouraging talent and motivating people through music, concerts, and shared cultural platforms."
         />
         <img
