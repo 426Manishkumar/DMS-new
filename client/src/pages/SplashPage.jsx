@@ -72,7 +72,7 @@ function SplashPage() {
               </div>
               <div className="relative mt-6 flex items-center justify-between text-sm text-emerald-50">
                 <span className="inline-flex items-center gap-2 font-semibold">
-                  Tap to continue <span aria-hidden="true">→</span>
+                  Tap to continue  • CI/CD working <span aria-hidden="true">→</span>
                 </span>
                 <span className="rounded-full bg-white/15 px-3 py-1 text-[11px] font-semibold uppercase tracking-[0.24em]">
                   Stage
